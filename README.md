@@ -11,8 +11,8 @@ for a headless management.
     3.1. [Enabling Internet access in Raspberry Pi](#31-enabling-internet-access-in-raspberry-pi)  
     3.2. [SSH into Raspberry Pi](#32-ssh-into-raspberry-pi)  
     3.3. [Change locale settings](#33-change-locale-settings)  
-    3.4. [Update the OS](#34-update-the-os)
-   3.5. [ WiFi configuration for auto connecting to the access point](#35-wifi-configuration-for-auto-connecting-to-the-access-point)
+    3.4. [Update the OS](#34-update-the-os)<br>
+    3.5. [ WiFi configuration for auto connecting to the access point](#35-wifi-configuration-for-auto-connecting-to-the-access-point)
 
 ## 1. Prerequisite
 
